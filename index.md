@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 数学与统计学院
 
 You can use the [editor on GitHub](https://github.com/learning255/huanghuaishutong/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
